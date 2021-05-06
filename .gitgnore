@@ -1,0 +1,9 @@
+/target/
+.classpath
+.gitignore
+.project
+.settings/
+.swagger-codegen
+.swagger-codegen-ignore
+.idea/
+swagger-spring.iml
